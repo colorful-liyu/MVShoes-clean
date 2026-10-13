@@ -2,11 +2,11 @@
 
 Multi-view footwear try-on dataset
 
-# MVShoes-clean
+# ShoeFit dataset: MVShoes-clean
 
 A cleaned release of MVShoes for academic research in virtual footwear try-on.
 
-[Apply for Access →](#request-access)
+[Apply for Access →](https://docs.google.com/forms/d/e/1FAIpQLSdJr110xe1trC7XbGgWTerUORt9U8yhrRHNKj3gJbFf4ANYPQ/viewform?usp=dialog)
 
 [Overview](#overview) · [Request Access](#request-access) · [Use Terms](#terms)
 
@@ -48,7 +48,7 @@ Access is limited to **non-commercial academic research**. Applications are revi
 3. Confirm each of the seven commitments and enter your name and the application date.
 4. After approval, receive the download link and archive password at the email address supplied.
 
-[Open Application Questionnaire →](#request-access)
+[Open Application Questionnaire →](https://docs.google.com/forms/d/e/1FAIpQLSdJr110xe1trC7XbGgWTerUORt9U8yhrRHNKj3gJbFf4ANYPQ/viewform?usp=dialog)
 
 Application responses are private. Download links and passwords are shared by email only. Do not post your contact information in public GitHub issues.
 
